@@ -117,7 +117,7 @@ Apresenta os indicadores gerais de faturamento, metas e atingimento, além de an
 
 **Recursos disponíveis:** filtros interativos por ano, categoria e continente, comparação de faturamento versus meta e rankings comerciais.
 
-![Visão Geral](dashboard/visao-geral.png)
+![Visão Geral](dashboard/Imagens/Visao-Geral.png)
 
 ### 02 — Comparativo Anual
 
@@ -125,7 +125,7 @@ Compara o desempenho de 2017 e 2018, destacando crescimento, quedas de faturamen
 
 Inclui uma investigação específica da subcategoria Desktops e dos resultados por continente.
 
-![Comparativo Anual](dashboard/comparativo-anual.png)
+![Comparativo Anual](dashboard/Imagens/Comparativo-anual.png)
 
 ### 03 — Análises de Apoio
 
@@ -133,7 +133,7 @@ Reúne tabelas analíticas para validar e detalhar os indicadores apresentados n
 
 Inclui faturamento por categoria, ranking de subcategorias e desempenho regional de Desktops.
 
-![Análises de Apoio](dashboard/analises-apoio.png)
+![Análises de Apoio](dashboard/Imagens/analises-apoio.png)
 
 ## 🔎 Principais resultados e insights
 
@@ -218,17 +218,17 @@ O relatório permite explorar as informações com filtros interativos; conclus�
 ```text
 analise-vendas-metas-directy/
 ├── README.md
-├── dashboard/
-│   └── teste directy.pbix
-└── imagens/
-    ├── visao-geral.png
-    ├── comparativo-anual.png
-    └── analises-apoio.png
+└── dashboard/
+    ├── Teste directy.pbix
+    └── Imagens/
+        ├── Visao-Geral.png
+        ├── Comparativo-anual.png
+        └── analises-apoio.png
 ```
 
 ## ▶️ Como visualizar o projeto
 
-1. Baixe o arquivo `dashboard/teste directy.pbix`.
+1. Baixe o arquivo `dashboard/Teste directy.pbix`.
 2. Abra o arquivo utilizando o Power BI Desktop.
 3. Navegue pelas três páginas do relatório.
 4. Utilize os filtros disponíveis na página Visão Geral para explorar os indicadores.
