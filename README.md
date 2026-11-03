@@ -117,7 +117,7 @@ Apresenta os indicadores gerais de faturamento, metas e atingimento, além de an
 
 **Recursos disponíveis:** filtros interativos por ano, categoria e continente, comparação de faturamento versus meta e rankings comerciais.
 
-![Visão Geral](imagens/visao-geral.png)
+![Visão Geral](dashboard/visao-geral.png)
 
 ### 02 — Comparativo Anual
 
@@ -125,7 +125,7 @@ Compara o desempenho de 2017 e 2018, destacando crescimento, quedas de faturamen
 
 Inclui uma investigação específica da subcategoria Desktops e dos resultados por continente.
 
-![Comparativo Anual](imagens/comparativo-anual.png)
+![Comparativo Anual](dashboard/comparativo-anual.png)
 
 ### 03 — Análises de Apoio
 
@@ -133,7 +133,7 @@ Reúne tabelas analíticas para validar e detalhar os indicadores apresentados n
 
 Inclui faturamento por categoria, ranking de subcategorias e desempenho regional de Desktops.
 
-![Análises de Apoio](imagens/analises-apoio.png)
+![Análises de Apoio](dashboard/analises-apoio.png)
 
 ## 🔎 Principais resultados e insights
 
